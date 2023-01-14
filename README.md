@@ -1,4 +1,4 @@
-# Thesaurus-Applicatione
+# Thesaurus-Application
 
 ## Description
 
